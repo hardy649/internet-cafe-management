@@ -1,0 +1,17 @@
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Django secrets
+.env
+.env.*
+!.env.example
+
+# Database
+*.sqlite3
+
+# Temporary files
+*.log
